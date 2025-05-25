@@ -1,0 +1,6 @@
+projectKey=Test
+serverUrl=http://172.31.82.117:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://172.31.82.117:9000/dashboard?id=Test
+ceTaskId=ff46ccf0-db61-401e-bbdc-89d2b151adf6
+ceTaskUrl=http://172.31.82.117:9000/api/ce/task?id=ff46ccf0-db61-401e-bbdc-89d2b151adf6
